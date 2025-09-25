@@ -131,12 +131,5 @@ This enables better **budgeting, pricing, and resource allocation strategies**.
 
 ---
 
-## 🖼️ Dashboards  
-
-![Sales Dashboard](images/sales-dashboard.png)  
-![Finance Dashboard](images/finance-dashboard.png)  
-
----
-
 ## 📌 Impact  
 With these Excel dashboards, stakeholders gain a clear view of business performance, enabling **data-driven decisions** in sales strategy, financial planning, hospitality management, and personal finance.  
