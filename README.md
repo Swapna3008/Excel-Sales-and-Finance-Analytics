@@ -54,13 +54,13 @@ The **Sales Analytics reports** revealed explosive growth driven by PCs and Acce
 This analysis helps management **focus on winning products, optimize weaker markets, and expand in high-performing countries**.  
 
 **Reports**  
-- [Customer Net Sales Performance](Sales_Analytics/1.%20Customer%20Net%20Sales%20Performance.pdf)  
-- [Market Performance vs Target](Sales_Analytics/2.%20Market%20Performance%20vs%20Target.pdf)  
-- [Top 10 Products by Growth](Sales_Analytics/3.%20Top%2010%20Products.pdf)  
-- [Division Report](Sales_Analytics/4.%20Division%20Report.pdf)  
-- [Top & Bottom Products](Sales_Analytics/5.%20Top%20%26%20Bottom%20Products.pdf)  
-- [New Products 2021](Sales_Analytics/6.%20New%20Products%202021.pdf)  
-- [Top 5 Countries 2021](Sales_Analytics/7.%20Top%205%20Countries%202021.pdf)  
+- [Customer Net Sales Performance](Sales_Analytics/1.%20Cusomer%20Net%20Sales%20Performance%20AtliQ%20Hardwares.pdf)  
+- [Market Performance vs Target](Sales_Analytics/2.%20Market%20Performance%20VS%20Target%20AtliQ%20Hardwares.pdf)  
+- [Top 10 Products by Growth](Sales_Analytics/3.%20Top%2010%20products%20of%20AtliQ%20Hardwares.pdf)  
+- [Division Report](Sales_Analytics/4.%20Division%20Level%20Report%20AtliQ%20Hardwares.pdf)  
+- [Top & Bottom Products](Sales_Analytics/5.%20Top%205%20and%20Bottom%205%20products%20AtliQ%20Hardwares.pdf)  
+- [New Products 2021](Sales_Analytics/6.%20New%20Products%202021%20AtliQ%20Hardwares.pdf)  
+- [Top 5 Countries 2021](Sales_Analytics/7.%20Top%205%20Countries%202021%20AtliQ%20Hardwares.pdf)  
 
 ---
 
@@ -103,10 +103,10 @@ The **Finance Analytics reports** provide management with a clear breakdown of p
 This enables better **budgeting, pricing, and resource allocation strategies**.  
 
 **Reports**  
-- [P&L for Markets](Finance_Analytics/8.%20P%26L%20for%20Markets.pdf)  
-- [P&L FY Report](Finance_Analytics/9.%20P%26L%20FY%20Report.pdf)  
-- [P&L Months Report](Finance_Analytics/10.%20P%26L%20Months%20Report.pdf)  
-- [GM% by Quarters](Finance_Analytics/11.%20GM%25%20by%20Quarters.pdf)  
+- [P&L for Markets](Finance_Analytics/8.%20P%26L%20for%20Markets%20AtliQ%20Hardwares.pdf)  
+- [P&L FY Report](Finance_Analytics/9.%20P%26L%20FY%20Report%20AtliQ%20Hardwares.pdf)  
+- [P&L Months Report](Finance_Analytics/10.%20P%26L%20Months%20Report%20AtliQ%20Hardwares.pdf)  
+- [GM% by Quarters](Finance_Analytics/11.%20GM%25%20by%20Quarters%20AtliQ%20Hardwares.pdf)  
 
 ---
 
@@ -120,7 +120,7 @@ This enables better **budgeting, pricing, and resource allocation strategies**.
 ## 👤 Finance – Personal  
 
 - [Loan Repayment Recommendation](Finance-Personal/14.%20Loan%20Repayment%20Recommendation.pdf)  
-- [Personal Income Expense Tracker](Finance-Personal/15.%20Personal%20Income%20Expense%20Tracker.pdf)  
+- [Personal Income Expense Tracker](Finance-Personal/15.%20Personal%20Income_Expense%20Tracker.pdf)  
 
 ---
 
