@@ -22,7 +22,7 @@ The repository covers **Sales Analytics, Finance Analytics, Hospitality Analytic
 - **Period:** 2019–2021  
 - **Data Includes:**  
   - Customer transactions  
-  - Product master  
+  - Product sales
   - Regional & divisional sales  
 
 ### ❓ Questions (KPIs)  
