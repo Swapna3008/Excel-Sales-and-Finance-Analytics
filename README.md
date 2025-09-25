@@ -21,9 +21,9 @@ The repository covers **Sales Analytics, Finance Analytics, Hospitality Analytic
 - **Source:** AtliQ Hardwares sales dataset (Excel)  
 - **Period:** 2019–2021  
 - **Data Includes:**  
-  - Customer transactions  
-  - Product sales
-  - Regional & divisional sales  
+   -Customer-wise net sales data
+   -Product details (category, division, launch year)
+   -Regional and country-level sales
 
 ### ❓ Questions (KPIs)  
 - Who are the top customers by net sales?  
