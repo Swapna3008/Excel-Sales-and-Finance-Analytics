@@ -117,13 +117,6 @@ This enables better **budgeting, pricing, and resource allocation strategies**.
 
 ---
 
-## 👤 Finance – Personal  
-
-- [Loan Repayment Recommendation](Finance-Personal/14.%20Loan%20Repayment%20Recommendation.pdf)  
-- [Personal Income Expense Tracker](Finance-Personal/15.%20Personal%20Income_Expense%20Tracker.pdf)  
-
----
-
 ## 🛠️ Planning Tools  
 
 - [Case Scenario Planning Tool](Planning-Tools/16.%20Case%20Scenario%20Planning%20Tool.pdf)  
